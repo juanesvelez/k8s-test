@@ -1,4 +1,4 @@
-# Redbee Challenge - Simpsons Quotes API
+# k8s Challenge - Simpsons Quotes API
 
 ![homer-console](simpsons-quotes/images/homer-simpson.gif)
 
